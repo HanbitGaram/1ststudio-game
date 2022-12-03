@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"보통 마을","order":1,"parentId":0,"scrollX":816,"scrollY":624},
+{"id":2,"expanded":false,"name":"유목민 캠프","order":4,"parentId":0,"scrollX":1156.5,"scrollY":1014},
+{"id":3,"expanded":false,"name":"내집1","order":2,"parentId":1,"scrollX":675.5,"scrollY":462},
+{"id":4,"expanded":false,"name":"아이템 상점","order":3,"parentId":1,"scrollX":832,"scrollY":640}
+]
